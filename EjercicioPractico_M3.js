@@ -1,4 +1,4 @@
-/* Módulo 2 - Estructuras de control
+/* Módulo 3 - Estructuras de datos
 
 
 1. Programa un ejemplo que almacene en un array todas las cartas de la baraja, cada una representada con un diccionario que tenga un palo y un valor.
